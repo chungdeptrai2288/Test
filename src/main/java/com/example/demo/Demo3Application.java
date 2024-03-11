@@ -21,7 +21,7 @@ public class Demo3Application implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 //		Employee employee =new Employee();
-//		employee.setFirstName("chung");
+//		employee.setFirstName("chunfg");
 //		employee.setLastName("pham");
 //		employee.setEmailId("chung@gmail.com");
 //		employeeRepository.save(employee);
